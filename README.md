@@ -18,7 +18,7 @@ Developed an automated wildlife monitoring system that addresses the critical do
 - **Real Impact**: Automating conservation efforts for wildlife monitoring
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Try_It_Now-brightgreen?style=for-the-badge)](https://wildlife-cameratrap.streamlit.app/)
-[![Repository](https://img.shields.io/badge/Source_Code-GitHub-blue?style=for-the-badge)](https://github.com/ACM40960/project-projects-in-maths-modelling)
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-blue?style=for-the-badge)](https://github.com/dennis0733/wildlife-cameratrap)
 
 **Key Results:**
 - F1 Score: 0.903 (seen locations) → 0.773 (unseen locations)
@@ -76,8 +76,8 @@ Developed an automated wildlife monitoring system that addresses the critical do
 ## Background
 
 **Education:**
-- **M.Sc. Data & Computational Science** - University College Dublin (2024-2025)
-- **B.Eng. Computer Engineering** - Ankara University (2023) | GPA: 3.49/4.00
+- **M.Sc. Data & Computational Science** - University College Dublin (2025)
+- **B.Eng. Computer Engineering** - Ankara University (2023)
 
 **Professional Experience:**
 - **Backend Developer** - Ankara University IT Department (Nov 2022 - Feb 2023)
@@ -122,7 +122,7 @@ I'm always interested in discussing ML projects, computer vision challenges, or 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/denizcilek/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sukrudenizcilek@gmail.com)
-[![Medium](https://img.shields.io/badge/Portfolio-Live_Demo-FF5722?style=for-the-badge&logo=medium)]([https://wildlife-cameratrap.streamlit.app/](https://medium.com/@sukrudenizcilek))
+[![Medium](https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium)](https://medium.com/@sukrudenizcilek)
 
 ---
 
